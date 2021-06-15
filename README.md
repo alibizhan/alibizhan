@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on C#, Microsoft SQL Server, TypeScript & Python
+- 🌱 I’m currently learning Python, Data and Network Security, Design Pattern & Algorithm 
+- 📫 How to reach me: alibizhan.samim@gmail.com
