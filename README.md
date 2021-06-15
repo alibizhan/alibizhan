@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on C#, Microsoft SQL Server, TypeScript & Python
-- 🌱 I’m currently learning Python, Data and Network Security, Design Pattern & Analysis of algorithms 
+- 🌱 I’m currently learning Python, Data and Network Security, Design Patterns & Analysis of algorithms 
 - 📫 How to reach me: alibizhan.samim@gmail.com
