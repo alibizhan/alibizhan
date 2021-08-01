@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true)
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibizhan&layout=compact&langs_count=8&hide=jupyter+notebook,matlab,html)](https://github.com/alibizhan/github-readme-stats)
 
 
