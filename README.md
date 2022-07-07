@@ -5,9 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true)
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibizhan&layout=compact&langs_count=8&hide=jupyter+notebook,matlab,html)](https://github.com/alibizhan/github-readme-stats)
-
 **📫 Where to find me:** 
 
 [![Twitter Badge](https://img.shields.io/badge/-@1aliblau-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1aliblau)](https://twitter.com/1aliblau) [![Linkedin Badge](https://img.shields.io/badge/-alisamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisamim/)](https://www.linkedin.com/in/alisamim/) 
@@ -54,3 +51,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Data and Network Security, Design Patterns & Analysis of algorithms 
 - 📫 How to reach me: ali.blau10@gmail.com
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibizhan&layout=compact&langs_count=8&hide=jupyter+notebook,matlab,html)](https://github.com/alibizhan/github-readme-stats)
