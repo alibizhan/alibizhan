@@ -52,5 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ali.blau10@gmail.com
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibizhan&layout=compact&langs_count=8&hide=jupyter+notebook,matlab,html)](https://github.com/alibizhan/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibizhan)](https://github.com/alibizhan/github-readme-stats)
+
