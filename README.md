@@ -7,8 +7,9 @@
 
 **📫 Where to find me:** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@1aliblau-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1aliblau)](https://twitter.com/1aliblau) [![Linkedin Badge](https://img.shields.io/badge/-alisamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisamim/)](https://www.linkedin.com/in/alisamim/) 
-[![Gmail Badge](https://img.shields.io/badge/-alibizhan.samim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alibizhan.samim@gmail.com)](mailto:alibizhan.samim@gmail.com)
+<!--[![Twitter Badge](https://img.shields.io/badge/-@1aliblau-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1aliblau)](https://twitter.com/1aliblau) -->
+[![Linkedin Badge](https://img.shields.io/badge/-alisamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisamim/)](https://www.linkedin.com/in/alisamim/) 
+[![Gmail Badge](https://img.shields.io/badge/-ali.blau10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.blau10@gmail.com)](mailto:alibizhan.samim@gmail.com)
 
 
 
